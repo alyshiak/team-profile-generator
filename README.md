@@ -2,7 +2,7 @@
 
 ## Description
 
-To create a command line application that used the inquirer and express package to take a users input and generate a HTML page of team members profiles. The use of Jest and OOP are demonastrated in this program. 
+To create a command line application that used the inquirer package to take a users input and generate a HTML page of team members profiles. The use of Jest and OOP are demonastrated in this program. 
 
 https://user-images.githubusercontent.com/111984179/218308958-ac4c7ec5-ab48-4aaa-82b6-e4b1dc04faf2.mp4
 
